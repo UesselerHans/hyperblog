@@ -40,6 +40,7 @@ git rm: este comando necesita alguno de los siguientes argumentos para poder eje
 por lo que podremos recuperarlos si es necesario (pero debemos usar comandos más avanzados).
 
 Experimento 1
+experimento 2
 Master 1
 
 Nuevos cambio de la historia.
